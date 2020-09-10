@@ -1,25 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-09-08T12:26:20.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="qiNOsDSWFD6t9Q4qhrPj" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-10T02:42:43.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="nY0zS9KRbz279UzJSh8v" version="13.6.9" type="github">
   <diagram id="aQA9aETBr3nwfCQwEO3R" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="-hbDv3YvgLvUU0tAqhPw-1" target="-hbDv3YvgLvUU0tAqhPw-10">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="-hbDv3YvgLvUU0tAqhPw-1" target="-hbDv3YvgLvUU0tAqhPw-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-1" value="入参：关卡ID（stageId）非必填" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-1" value="入参：关卡ID（stageId）非必填" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="100" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-4" value="&lt;p&gt;&lt;font face=&quot;courier new&quot;&gt;&lt;span style=&quot;font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;思维闯关初始加载接口(/api/chapter/homePageShowChapter)&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-4" value="&lt;p&gt;&lt;font face=&quot;courier new&quot;&gt;&lt;span style=&quot;font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;思维闯关初始加载接口(/api/chapter/homePageShowChapter)&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="40" width="610" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="-hbDv3YvgLvUU0tAqhPw-9" target="-hbDv3YvgLvUU0tAqhPw-12">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="-hbDv3YvgLvUU0tAqhPw-9" target="-hbDv3YvgLvUU0tAqhPw-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-9" value="查询用户当前进度的关卡ID" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-9" value="查询用户当前进度的关卡ID" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="315" y="320" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="-hbDv3YvgLvUU0tAqhPw-10" target="-hbDv3YvgLvUU0tAqhPw-9">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="-hbDv3YvgLvUU0tAqhPw-10" target="-hbDv3YvgLvUU0tAqhPw-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="310" />
@@ -27,7 +27,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="-hbDv3YvgLvUU0tAqhPw-10" target="-hbDv3YvgLvUU0tAqhPw-44">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="-hbDv3YvgLvUU0tAqhPw-10" target="-hbDv3YvgLvUU0tAqhPw-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="1551" as="targetPoint" />
             <Array as="points">
@@ -37,28 +37,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-10" value="判断入参stageId是否为空" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-10" value="判断入参stageId是否为空" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="320" y="200" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="-hbDv3YvgLvUU0tAqhPw-12" target="-hbDv3YvgLvUU0tAqhPw-13">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="-hbDv3YvgLvUU0tAqhPw-12" target="-hbDv3YvgLvUU0tAqhPw-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-12" value="调用方法&lt;br&gt;getUserCurrentSubject(userId, subjectId, subjectType)" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-12" value="调用方法&lt;br&gt;getUserCurrentSubject(userId, subjectId, subjectType)" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="315" y="420" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="-hbDv3YvgLvUU0tAqhPw-13" target="-hbDv3YvgLvUU0tAqhPw-14">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="-hbDv3YvgLvUU0tAqhPw-13" target="-hbDv3YvgLvUU0tAqhPw-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-13" value="调用方法addStageSchedule(userId)&lt;br&gt;检查初始化当前用户缺少的阶段进度信息" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-13" value="调用方法addStageSchedule(userId)&lt;br&gt;检查初始化当前用户缺少的阶段进度信息" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="315" y="540" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="-hbDv3YvgLvUU0tAqhPw-14" target="-hbDv3YvgLvUU0tAqhPw-15">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="-hbDv3YvgLvUU0tAqhPw-14" target="-hbDv3YvgLvUU0tAqhPw-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-14" value="查询用户的当前学段下的所有非锁定状态的阶段进度信息列表&lt;br&gt;按照修改时间倒序排列UserScheduleList" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-14" value="查询用户的当前学段下的所有非锁定状态的阶段进度信息列表&lt;br&gt;按照修改时间倒序排列UserScheduleList" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="315" y="650" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="-hbDv3YvgLvUU0tAqhPw-15" target="-hbDv3YvgLvUU0tAqhPw-20">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="-hbDv3YvgLvUU0tAqhPw-15" target="-hbDv3YvgLvUU0tAqhPw-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="870" />
@@ -66,7 +66,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="-hbDv3YvgLvUU0tAqhPw-15" target="-hbDv3YvgLvUU0tAqhPw-22">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="-hbDv3YvgLvUU0tAqhPw-15" target="-hbDv3YvgLvUU0tAqhPw-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="1181" as="targetPoint" />
             <Array as="points">
@@ -75,67 +75,67 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-15" value="判断UserScheduleList是否为空" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-15" value="判断UserScheduleList是否为空" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="325" y="770" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="-hbDv3YvgLvUU0tAqhPw-20" target="-hbDv3YvgLvUU0tAqhPw-21">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="-hbDv3YvgLvUU0tAqhPw-20" target="-hbDv3YvgLvUU0tAqhPw-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-20" value="循环list取出开放状态的进度信息和解锁状态的进度信息" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-20" value="循环list取出开放状态的进度信息和解锁状态的进度信息" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="320" y="890" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="-hbDv3YvgLvUU0tAqhPw-21" target="-hbDv3YvgLvUU0tAqhPw-22">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="-hbDv3YvgLvUU0tAqhPw-21" target="-hbDv3YvgLvUU0tAqhPw-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-21" value="如果存在开放状态的进度优先返回，否则返回解锁状态的进度" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-21" value="如果存在开放状态的进度优先返回，否则返回解锁状态的进度" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="320" y="1010" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="-hbDv3YvgLvUU0tAqhPw-22" target="-hbDv3YvgLvUU0tAqhPw-37">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="-hbDv3YvgLvUU0tAqhPw-22" target="-hbDv3YvgLvUU0tAqhPw-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-22" value="返回GameUserScheduleEntity对象" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-22" value="返回GameUserScheduleEntity对象" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="320" y="1130" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-24" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-24" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="385" y="860" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-27" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-27" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="495" y="960" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-34" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-34" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="380" y="290" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="-hbDv3YvgLvUU0tAqhPw-36" target="-hbDv3YvgLvUU0tAqhPw-44">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="-hbDv3YvgLvUU0tAqhPw-36" target="-hbDv3YvgLvUU0tAqhPw-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-36" value="查询用户的当前学段下的所有非锁定状态的阶段进度信息列表按照修改时间倒序排列返回第一条数据" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-36" value="查询用户的当前学段下的所有非锁定状态的阶段进度信息列表按照修改时间倒序排列返回第一条数据" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="320" y="1370" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="-hbDv3YvgLvUU0tAqhPw-37" target="-hbDv3YvgLvUU0tAqhPw-36">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="-hbDv3YvgLvUU0tAqhPw-37" target="-hbDv3YvgLvUU0tAqhPw-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-37" value="判断对象是否为空" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-37" value="判断对象是否为空" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="320" y="1250" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-44" value="得到stageId" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-44" value="得到stageId" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="320" y="1500" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-47" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-47" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="495" y="220" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-49" value="通过getChapterListByStageId(userId, stageId, type)方法获取当前阶段所有关卡信息" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-49" value="通过getChapterListByStageId(userId, stageId, type)方法获取当前阶段所有关卡信息" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="320" y="1600" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-51" value="查询进度表当前阶段的进度信息" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-51" value="查询进度表当前阶段的进度信息" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="315" y="1740" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-52" value="&lt;span&gt;type=1时先从缓存中拿数据&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-52" value="&lt;span&gt;type=1时先从缓存中拿数据&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="530" y="1610" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="-hbDv3YvgLvUU0tAqhPw-56" target="-hbDv3YvgLvUU0tAqhPw-54">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="-hbDv3YvgLvUU0tAqhPw-56" target="-hbDv3YvgLvUU0tAqhPw-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-hbDv3YvgLvUU0tAqhPw-53" target="-hbDv3YvgLvUU0tAqhPw-58">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-hbDv3YvgLvUU0tAqhPw-53" target="-hbDv3YvgLvUU0tAqhPw-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="2135" as="targetPoint" />
             <Array as="points">
@@ -144,28 +144,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-53" value="判断进度状态是否是锁定或解锁" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-53" value="判断进度状态是否是锁定或解锁" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="320" y="1850" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="-hbDv3YvgLvUU0tAqhPw-54" target="-hbDv3YvgLvUU0tAqhPw-58">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="-hbDv3YvgLvUU0tAqhPw-54" target="-hbDv3YvgLvUU0tAqhPw-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-54" value="查询当前阶段所有的关卡信息插入到进度表，如果是第一关置为解锁状态，其他为锁定状态" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;direction=west;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-54" value="查询当前阶段所有的关卡信息插入到进度表，如果是第一关置为解锁状态，其他为锁定状态" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;direction=west;" parent="1" vertex="1">
           <mxGeometry x="302.5" y="1970" width="195" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-56" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-56" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="385" y="1930" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="-hbDv3YvgLvUU0tAqhPw-53" target="-hbDv3YvgLvUU0tAqhPw-56">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="-hbDv3YvgLvUU0tAqhPw-53" target="-hbDv3YvgLvUU0tAqhPw-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="1930" as="sourcePoint" />
             <mxPoint x="400" y="1970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-58" value="查询当前阶段所有关卡信息" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-58" value="查询当前阶段所有关卡信息" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="302.5" y="2100" width="195" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-61" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-61" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="585" y="1990" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
