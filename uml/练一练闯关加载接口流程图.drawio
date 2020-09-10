@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-10T08:34:19.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="Y4YcPsgG-iRM3KZwedVx" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-10T10:04:16.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="EBjXPVw0EIAm8nzhHXhA" version="13.6.9" type="github">
   <diagram id="aQA9aETBr3nwfCQwEO3R" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,8 +171,20 @@
         <mxCell id="VDbKX3D-KfDn9qXpyzn8-1" value="循环遍历关卡列表，补充boss关卡答题数量。判断奖励关卡已解锁把对应boss关卡解锁。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="2210" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VDbKX3D-KfDn9qXpyzn8-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="2338" width="185" height="102" as="geometry" />
+        <mxCell id="VDbKX3D-KfDn9qXpyzn8-2" value="查询所有关卡的进度信息map&amp;lt;chapterId, ScheduleEntity&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="2320" width="185" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="VDbKX3D-KfDn9qXpyzn8-3" value="定位当前关卡的位置，循环遍历关卡列表：&lt;br&gt;1、判断关卡的进度是否存在，不存在直接返回。&lt;br&gt;2、未达到开放时间的非奖励关卡状态为未到开放时间状态，其他关卡状态设为进度信息的状态。&lt;br&gt;3、设置闯关需要的体力，进度状态是开放的不用消耗体力，其他正常消耗。&lt;br&gt;4、保存费boss关卡的更新时间最大的关卡位置flag。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2420" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="VDbKX3D-KfDn9qXpyzn8-4" value="判断flag关卡进度状态是否为闯关成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="2620" width="205" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VDbKX3D-KfDn9qXpyzn8-5" value="把flag关卡状态标识为当前关卡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="498" y="2750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VDbKX3D-KfDn9qXpyzn8-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="2740" width="155" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
