@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-10T02:42:43.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="nY0zS9KRbz279UzJSh8v" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-10T08:34:19.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="Y4YcPsgG-iRM3KZwedVx" version="13.6.9" type="github">
   <diagram id="aQA9aETBr3nwfCQwEO3R" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -162,11 +162,17 @@
             <mxPoint x="400" y="1970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-hbDv3YvgLvUU0tAqhPw-58" value="查询当前阶段所有关卡信息" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="-hbDv3YvgLvUU0tAqhPw-58" value="查询当前阶段所有关卡信息列表" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="302.5" y="2100" width="195" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-hbDv3YvgLvUU0tAqhPw-61" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="585" y="1990" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VDbKX3D-KfDn9qXpyzn8-1" value="循环遍历关卡列表，补充boss关卡答题数量。判断奖励关卡已解锁把对应boss关卡解锁。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="2210" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VDbKX3D-KfDn9qXpyzn8-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="2338" width="185" height="102" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
